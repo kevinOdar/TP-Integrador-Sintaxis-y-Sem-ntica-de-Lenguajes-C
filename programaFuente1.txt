@@ -1,0 +1,7 @@
+inicio
+	
+cc:= 3 - 2;
+	
+escribir(cc,a,b);	
+
+fin

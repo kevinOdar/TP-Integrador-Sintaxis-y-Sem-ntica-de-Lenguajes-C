@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1510682070 source:c:\users\kevin\desktop\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdbool.h>
+	<string.h>
+	"Rutinas.h"
+	"logger.c"
+
+1510634916 c:\users\kevin\desktop\1\rutinas.h
+	"logger.h"
+
+1510631820 c:\users\kevin\desktop\1\logger.h
+
+1510634976 c:\users\kevin\desktop\1\logger.c
+	<stdio.h>
+	<stdarg.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	"logger.h"
+

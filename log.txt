@@ -1,0 +1,16 @@
+[Tue Jan 02 22:54:32 2018] Comienza    
+[Tue Jan 02 22:54:32 2018] Declara  a entera  
+[Tue Jan 02 22:54:32 2018] Leer  a Entera  
+[Tue Jan 02 22:54:32 2018] Declara  b entera  
+[Tue Jan 02 22:54:32 2018] Leer  b Entera  
+[Tue Jan 02 22:54:32 2018] Declara  cc entera  
+[Tue Jan 02 22:54:32 2018] Declara Temp1 Entera  
+[Tue Jan 02 22:54:32 2018] Resta b 2 Temp1 
+[Tue Jan 02 22:54:32 2018] Declara Temp2 Entera  
+[Tue Jan 02 22:54:32 2018] Suma a Temp1 Temp2 
+[Tue Jan 02 22:54:32 2018] Almacena Temp2 cc  
+[Tue Jan 02 22:54:32 2018] Escribir  cc Entera  
+[Tue Jan 02 22:54:32 2018] Declara Temp3 Entera  
+[Tue Jan 02 22:54:32 2018] Suma a 4 Temp3 
+[Tue Jan 02 22:54:32 2018] Escribir  Temp3 Entera  
+[Tue Jan 02 22:54:32 2018] Error Sintactico en la sentencia 3 
